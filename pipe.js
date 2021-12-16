@@ -72,7 +72,7 @@ function createPipe() {
     rects() {
       return [
         topElem.getBoundingClientRect(),
-        bottomElem.getBoundingClientRect,
+        bottomElem.getBoundingClientRect(),
       ];
     },
   };
